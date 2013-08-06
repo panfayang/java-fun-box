@@ -8,7 +8,7 @@
  * Reason => This is a square of side 5, area is 25.
  * Input =>N10 E2 S8 E8 S2 W10
  * Output =>36
- * Reason=> DepictsL shape. This can be computed as Vertical Rectangle = 2x8, HorizontalRectangle = 2x8 and common square = 2x2.
+ * Reason=> Depicts L shape. This can be computed as Vertical Rectangle = 2x8, HorizontalRectangle = 2x8 and common square = 2x2.
  */
 
 /**
